@@ -1,0 +1,32 @@
+
+.border {
+    border: 2px solid green;
+    margin: 3px;
+}
+
+.flex {
+    display: flex;
+}
+.justify-center{
+    justify-content: center; 
+    /* align the flex item at the center of the container */
+}
+.items-center{
+    align-items: center; /*centers the item vertically(cross axis)*/
+}
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.invert{
+    filter: invert(1);
+}
+.bg-grey{
+    background-color: #121212;
+}
+.rounded{
+    border-radius: 7px;
+}
+.m-1{
+    margin: 5px;
+}
